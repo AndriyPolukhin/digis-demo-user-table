@@ -52,7 +52,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
-Deployed to Vercel at https://digis-demo-user-table-5tbu88blr-andriy-polukhins-projects.vercel.app
+Deployed to Vercel at https://digis-demo-user-table.vercel.app/
 
 ## 📋 Available Scripts
 
